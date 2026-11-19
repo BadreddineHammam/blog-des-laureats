@@ -1,4 +1,3 @@
-
 # Dossier des Sprints (`sprints/`)
 
 Ce dossier centralise la planification et le suivi des Sprints selon la méthodologie Agile/Scrum.
