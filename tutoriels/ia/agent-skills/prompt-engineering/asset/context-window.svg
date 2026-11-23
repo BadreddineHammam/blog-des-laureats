@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330">
+  <rect width="760" height="330" rx="24" fill="#0f172a"/>
+  <g font-family="Arial, sans-serif">
+    <text x="380" y="58" text-anchor="middle" font-size="28" font-weight="700" fill="#f8fafc">CONTEXT WINDOW</text>
+    <rect x="55" y="95" width="650" height="155" rx="18" fill="#1e293b" stroke="#64748b" stroke-width="4"/>
+    <rect x="55" y="95" width="310" height="155" rx="18" fill="#0891b2"/>
+    <rect x="365" y="95" width="180" height="155" fill="#7c3aed"/>
+    <rect x="545" y="95" width="160" height="155" rx="18" fill="#334155"/>
+    <text x="210" y="160" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">Relevant files</text>
+    <text x="455" y="160" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">Instructions</text>
+    <text x="625" y="160" text-anchor="middle" font-size="22" font-weight="700" fill="#cbd5e1">Free space</text>
+    <text x="380" y="285" text-anchor="middle" font-size="20" fill="#94a3b8">Too much context leads to saturation</text>
+  </g>
+</svg>
