@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330">
+  <rect width="760" height="330" rx="24" fill="#f8fafc"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g>
+      <rect x="35" y="65" width="210" height="200" rx="24" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/>
+      <circle cx="140" cy="125" r="42" fill="#2563eb"/>
+      <text x="140" y="137" font-size="38" font-weight="700" fill="#fff">R</text>
+      <text x="140" y="188" font-size="26" font-weight="700" fill="#1e3a8a">ROLE</text>
+      <text x="140" y="225" font-size="18" fill="#334155">Who should AI be?</text>
+    </g>
+    <g>
+      <rect x="275" y="65" width="210" height="200" rx="24" fill="#dcfce7" stroke="#16a34a" stroke-width="4"/>
+      <circle cx="380" cy="125" r="42" fill="#16a34a"/>
+      <text x="380" y="137" font-size="38" font-weight="700" fill="#fff">I</text>
+      <text x="380" y="188" font-size="26" font-weight="700" fill="#166534">INSTRUCTION</text>
+      <text x="380" y="225" font-size="18" fill="#334155">What should AI do?</text>
+    </g>
+    <g>
+      <rect x="515" y="65" width="210" height="200" rx="24" fill="#fef3c7" stroke="#d97706" stroke-width="4"/>
+      <circle cx="620" cy="125" r="42" fill="#d97706"/>
+      <text x="620" y="137" font-size="38" font-weight="700" fill="#fff">O</text>
+      <text x="620" y="188" font-size="26" font-weight="700" fill="#92400e">OUTPUT</text>
+      <text x="620" y="225" font-size="18" fill="#334155">How should it answer?</text>
+    </g>
+  </g>
+</svg>
