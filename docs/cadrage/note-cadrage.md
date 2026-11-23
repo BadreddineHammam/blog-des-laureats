@@ -1,21 +1,21 @@
-# Blog des Lauréats — Project Framing Document
+# Blog des Lauréats — Simple Project Plan
 
-## 1. Présentation du Projet & Contexte Institutionnel
+## 1. Project Presentation and School Context
 
 ### Project presentation
 
-**Blog des Lauréats** is a digital platform that lets former students share their success stories and useful experiences. It has two parts:
+**Blog des Lauréats** is an easy-to-use platform where former students share their success stories and useful experiences. It has two parts:
 
 - **Website (Web):** Administrators publish, edit, organize, and manage articles. The public can read stories and discover former students.
 - **Mobile application:** Learners and visitors can browse and read articles easily from their smartphones.
 
 **Simple example:** A student finishes training, gets a good job, and becomes successful. They write an article to explain how they reached that goal. Other students read the article and learn from this real experience.
 
-### Institutional context
+### School context
 
-The project is created for a training center like Solicode. The center has many learners and former students, but their success stories may not be easy to find or share. The platform gives these stories one simple and organized place.
+This project is for a training center like Solicode. The center has many learners and former students. Their success stories are often hard to find. This platform puts the stories in one clear place.
 
-The project does not include building or coding the website or mobile application in this document. This document only defines **what must be done, why it is needed, who is involved, and what risks may happen**.
+This document does **not** explain how to build or code the website or mobile app. It only explains **what we want to do, why we want to do it, who will help, and what problems may happen**.
 
 ### Main expected features
 
@@ -26,12 +26,12 @@ The project does not include building or coding the website or mobile applicatio
 - Mobile-friendly reading for smartphones
 - Contact or sharing options if confirmed as useful
 
-## 2. Objectifs Stratégiques & SMART
+## 2. Main Goals and SMART Goals
 
 | ID | SMART objective | Success measure | Target date |
 |---|---|---|---|
 | O1 | Inspire current learners with real success stories. | Publish at least **12 quality articles** by former students. | Before the final project launch |
-| O2 | Make content easy to discover on the web. | Allow users to find an article by **title, category, or keyword** during acceptance tests. | Before user testing |
+| O2 | Make content easy to find on the website. | Users can find an article by **title, category, or keyword** during testing. | Before user testing |
 | O3 | Give administrators a simple content workflow. | An authorized administrator can create, edit, publish, and archive an article in **less than 10 minutes**. | Before training and delivery |
 | O4 | Provide a useful mobile reading experience. | The mobile app passes **basic usability tests on 3 common smartphone sizes**. | Before mobile validation |
 | O5 | Keep content accurate and professional. | **100% of published articles** are reviewed and approved before publication. | Continuously |
@@ -45,9 +45,9 @@ The project does not include building or coding the website or mobile applicatio
 4. Help learners make better career choices.
 5. Build one clear communication channel for web and mobile users.
 
-## 3. Matrice de Périmètre (In-Scope / Out-of-Scope)
+## 3. Project Limits (Included and Not Included)
 
-| Area | In-Scope | Out-of-Scope |
+| Area | Included | Not included |
 |---|---|---|
 | Web platform | Public article pages, article search, categories, article details, responsive design | Native desktop applications or separate social network platform |
 | Mobile application | Reading articles, navigation, search, simple responsive interface | Creating or publishing articles inside the mobile application |
@@ -56,15 +56,15 @@ The project does not include building or coding the website or mobile applicatio
 | User experience | Simple navigation, clear titles, readable pages, and basic accessibility | Advanced personalization or artificial-intelligence recommendations |
 | Comments and interaction | Only if requested and approved | Public forums and complex social messaging |
 | Security | Login for administrators, role-based access, input validation, backups | High-level security certification or intrusion testing as a separate service |
-| Project documentation | Planning, requirements, stakeholder list, risks, and acceptance criteria | Detailed technical implementation in this current phase |
+| Project documentation | Planning, requirements, people involved, risks, and success criteria | Detailed technical implementation in this current phase |
 
-### Scope rule
+### Simple rule
 
-A feature is in scope only if it is needed for the main goal: **publish real success stories and allow learners to read them on web and mobile**. Features that are not approved by the Product Owner should not be started.
+A feature is included only if it is needed for the main goal: **publish real success stories and allow learners to read them on web and mobile**. Features that are not approved by the Product Owner should not be started.
 
-## 4. Parties Prenantes
+## 4. People Involved
 
-| Stakeholder | Role | Interests and responsibilities |
+| Person or group | Role | What they do |
 |---|---|---|
 | Product Owner — Group 1 | Main decision-maker | Validate scope, priorities, requirements, and final planning document |
 | Project manager / Scrum Master | Organize the team | Plan meetings, remove problems, and track progress |
@@ -74,24 +74,24 @@ A feature is in scope only if it is needed for the main goal: **publish real suc
 | Former students (Lauréats) | Content providers | Share accurate and approved success stories |
 | Learners and current students | Main readers | Read articles and provide feedback on usefulness |
 | Visitors | Public readers | Browse public stories easily |
-| Training center management | Institutional sponsor | Support communication and approve institutional use |
+| Training center management | Project sponsor | Support communication and approve use at the center |
 | Teachers and coaches | Mentors and reviewers | Help validate content and guide learners |
 | Communication / Marketing team | Promotion | Share valuable articles with the right audience |
 | Security / Technical support | Technical support | Help protect accounts, data, and availability if needed |
 
-### RACI summary
+### Who does what
 
-- **Product Owner:** Responsible for acceptance and priorities.
-- **Project team:** Responsible for analysis and future implementation.
-- **Administrators:** Responsible for daily content quality.
-- **Former students:** Responsible for the accuracy of their own stories.
-- **Management:** Accountable for institutional approval and resources.
+- **Product Owner:** Accepts the work and decides what is most important.
+- **Project team:** Analyzes the needs and will build the platform.
+- **Administrators:** Check and manage the daily content.
+- **Former students:** Make sure their own stories are true.
+- **Management:** Gives approval and provides needed support.
 
-## 5. Risques Identifiés & Stratégies d'Atténuation
+## 5. Possible Risks and How to Prevent Them
 
-| Risk | Probability | Impact | Main effect | Mitigation strategy |
+| Possible risk | How likely | How serious | What may happen | Prevention plan |
 |---|---|---|---|---|
-| Too many features are requested. | Medium | High | Delays and confusion | Use the scope matrix, rank features, and require Product Owner approval for changes. |
+| Too many features are requested. | Medium | High | Delays and confusion | Use the project limits, rank features, and ask the Product Owner before making changes. |
 | Articles have low quality or wrong information. | Medium | High | Loss of trust | Create a review process; teachers or an editor must validate each article. |
 | Former students do not provide stories. | Medium | Medium | Few articles at launch | Prepare a simple submission form, a clear example, reminders, and a small writer group. |
 | The web and mobile versions look different. | Medium | Medium | Confusing user experience | Use a shared design system and agree on common screens before development. |
@@ -104,9 +104,9 @@ A feature is in scope only if it is needed for the main goal: **publish real suc
 | Requirements change after work starts. | High | Medium | Rework and delays | Record all changes, estimate their cost, and accept only approved changes. |
 | Copyright or image permission is missing. | Medium | Medium | Legal and reputational risk | Use only owned or properly licensed images and keep written permission from contributors. |
 
-### Risk rules
+### Simple risk rules
 
 1. Review major risks every week during project meetings.
 2. Assign one person to follow each important risk.
-3. Stop and report the risk if it can affect scope, security, quality, or the launch date.
-4. Update the mitigation plan after every significant change.
+3. Stop and report a risk if it can affect the project size, security, quality, or launch date.
+4. Update the prevention plan after every important change.
