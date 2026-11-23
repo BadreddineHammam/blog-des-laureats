@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330">
+  <rect width="760" height="330" rx="24" fill="#0f172a"/>
+  <g fill="#22d3ee" font-family="Arial, sans-serif" text-anchor="middle">
+    <circle cx="140" cy="165" r="78" fill="#164e63"/>
+    <text x="140" y="155" font-size="30" font-weight="700">PROMPT</text>
+    <text x="140" y="195" font-size="22">Your request</text>
+  </g>
+  <path d="M230 165 H315" stroke="#94a3b8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M300 145 l28 20-28 20" fill="#94a3b8"/>
+  <g fill="#f8fafc" font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="320" y="87" width="220" height="156" rx="24" fill="#1e293b" stroke="#38bdf8" stroke-width="4"/>
+    <text x="430" y="145" font-size="28" font-weight="700">LLM</text>
+    <text x="430" y="183" font-size="20">Predict next</text>
+    <text x="430" y="213" font-size="20">meaningful tokens</text>
+  </g>
+  <path d="M552 165 H620" stroke="#94a3b8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M605 145 l28 20-28 20" fill="#94a3b8"/>
+  <g fill="#22c55e" font-family="Arial, sans-serif" text-anchor="middle">
+    <circle cx="690" cy="165" r="54" fill="#14532d"/>
+    <text x="690" y="157" font-size="24" font-weight="700">ANSWER</text>
+    <text x="690" y="188" font-size="18">Text or code</text>
+  </g>
+</svg>
